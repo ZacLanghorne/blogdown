@@ -1,0 +1,5 @@
+## Start new site
+```{r}
+blogdown::new_site(theme = "vaga/hugo-theme-m10c")
+```
+
