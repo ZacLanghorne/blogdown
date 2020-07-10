@@ -4,14 +4,14 @@ theme = "hugo-theme-m10c"
 paginate = 5
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Zachary Langhorne"
+  description = "A test deployemnt of a hugo site using R."
   [[params.social]]
     name = "github"
-    url = "https://github.com/gohugoio"
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/gohugoio"
+    url = "https://github.com/ZacLanghorne"
+  #[[params.social]]
+  #  name = "twitter"
+  #  url = "https://twitter.com/gohugoio"
 
   # Brown theme
   #[params.style]
